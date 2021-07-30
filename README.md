@@ -1,2 +1,2 @@
-# lecture02-tailwindcss
-lecture02 live-coding.
+# lecture03-tailwindcss
+lecture03 live-coding.
